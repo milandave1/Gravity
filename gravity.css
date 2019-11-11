@@ -1,0 +1,31 @@
+/* CSS FOR THE GRAVITY HTML AND JAVASCRIPT */
+
+.input {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+}
+
+.body {
+    text-align: center;
+    background-image: url(./gravity_background_2.jpg);
+    background-size: cover;
+}
+
+.form {
+    font-family: Impact;
+    font-size: 20px;
+}
+
+.div {
+    background-color: lightgray;
+}
+
+/* .canvas {
+    background-image: url(./gravity_background_1.jpg);
+    background-size: cover;
+} */
+
+.d2 {
+    
+}
